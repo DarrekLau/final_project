@@ -1,0 +1,49 @@
+[{
+        "productId": 1,
+        "productName": "Wedding package",
+        "productCode": "DLJ-01",
+        "description": "We fly you to your dream destination in style. Let our team make the all the arrangements while you look your best for your special day, glamourous and effervescent.",
+        "price": 8000,
+        "imageUrl": "https://www.apple.com/newsroom/images/environments/stores/apple_nso-marina-bay-sands_exterior_09072020.jpg.news_app_ed.jpg"
+    },
+    {
+        "productId": 2,
+        "productName": "Architectural",     
+        "productCode": "DLJ-02",
+        "description": "<Insert description for Architectural>",
+        "price": 1000,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/58471/garden_cart.png"
+    },
+    {
+        "productId": 3,
+        "productName": "Studio photoshoot",
+        "productCode": "DLJ-03",
+        "description": "<Insert description for Studio photoshoot>",
+        "price": 8.9,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/73/rejon_Hammer.png"
+    },
+    {
+        "productId": 4,
+        "productName": "Drone",
+        "productCode": "DLJ-04",
+        "description": "<Insert description for Drone>",
+        "price": 11.55,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/27070/egore911_saw.png"
+    },
+    {
+        "productId": 5,
+        "productName": "Outdoor photoshoot",
+        "productCode": "DLJ-05",
+        "description": "<Insert description for Outdoor photoshoot>",
+        "price": 35.95,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png"
+    },
+    {
+        "productId": 6,
+        "productName": "Product photoshoot",
+        "productCode": "DLJ-06",
+        "description": "<Insert description for Product photoshoot>",
+        "price": 35.95,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png"
+    }
+] 
